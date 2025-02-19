@@ -77,9 +77,7 @@ def loop():
             s = s_list[k]
             V[s - 1] = (V[s - 1] * V_times[s - 1] + g_list[k]) / (V_times[s - 1] + 1)
             V_times[s - 1] += 1
-        # print(V)
-        # print(V_times)
-
+            
         for k in range(len(s_list) - 1):
             a = a_list[k]
             s = s_list[k]
