@@ -88,7 +88,6 @@ def loop():
         print(Q)
         print(Q_times)
 
-        # epsilon = max(0.01, epsilon * 0.99)
 
 
 def move(p, direction):
