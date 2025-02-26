@@ -2,10 +2,10 @@
 
 ## Project 1: The Frozen Lake Problem and Variations
 
-**Student Name**: Luo Zhonghao
-**Student ID**: A0308832A
-**Student Email**: E1404383@u.nus.edu
-**Course**: ME5406 Deep Learning for Robotics
+- **Name:** Luo Zhonghao  
+- **Student ID:** A0308832A  
+- **Email:** E1404383@u.nus.edu  
+- **Course:** ME5406 Deep Learning for Robotics  
 
 ---
 
