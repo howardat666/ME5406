@@ -82,7 +82,7 @@ pip install notebook
 2. Launch Jupyter Notebook:
 
 ```bash
-jupyter notebook project1new.ipynb
+jupyter notebook project1.ipynb
 ```
 
 3. Execute each cell in the notebook to observe the implementation and results.
